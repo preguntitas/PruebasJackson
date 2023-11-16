@@ -1,0 +1,14 @@
+<coches>
+    <coche>
+        <marca>"Toyota"</marca>
+        <modelo>"Verso></modelo>
+        <precio>20000</precio>
+        <color>"Gris"</color>
+    </coche>
+    <coche>
+        <marca>"mercedes"</marca>
+        <modelo>"e320></modelo>
+        <precio>25000</precio>
+        <color>"Blanco"</color>
+    </coche>
+</coches> 
